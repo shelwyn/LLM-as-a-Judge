@@ -1,0 +1,27 @@
+# Core dependencies for LLM-as-a-Judge POC
+google-generativeai>=0.3.0
+pydantic>=2.0.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed for your specific use case
+
+# For enhanced JSON parsing and manipulation
+# jsonschema>=4.0.0
+
+# For logging and debugging
+# loguru>=0.7.0
+
+# For configuration management
+# python-dotenv>=1.0.0
+
+# For data analysis and visualization
+# pandas>=2.0.0
+# matplotlib>=3.7.0
+
+# For web interface (future enhancement)
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+
+# For testing
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
